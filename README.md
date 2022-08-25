@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Task Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Task Tracker is a project from Brad Traversy's React Crash Course. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
